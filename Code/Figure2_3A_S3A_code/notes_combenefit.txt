@@ -1,0 +1,1 @@
+Run Combinefit on the folder Data/Figure2_data/combF in batch mode calculate all methods saving everything

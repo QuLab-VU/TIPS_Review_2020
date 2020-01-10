@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Synergy_Timeline_V2.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.1785262"
+     inkscape:cx="180.19558"
+     inkscape:cy="998.42271"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:window-width="2493"
+     inkscape:window-height="1545"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:bbox-nodes="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:2.64583325px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="47.773769"
+       y="119.6963"
+       id="text4602"><tspan
+         sodipodi:role="line"
+         id="tspan4600"
+         x="47.773769"
+         y="121.79745"
+         style="stroke-width:0.26458332px" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5614"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:10px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion5616"><rect
+           id="rect5618"
+           width="80.835693"
+           height="18.131371"
+           x="189.62392"
+           y="566.49097" /></flowRegion><flowPara
+         id="flowPara5620" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="148.79539"
+       y="238.77571"
+       id="text1236"><tspan
+         sodipodi:role="line"
+         id="tspan1234"
+         x="148.79539"
+         y="241.31784"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       id="g3223"
+       transform="translate(-3.2739397,-64.660309)"
+       inkscape:export-filename="/home/meyerct6/synergy_timeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="75.358009"
+         x="8.2660933"
+         height="9.9999924"
+         width="30.281691"
+         id="rect4485"
+         style="opacity:1;fill:#00afff;fill-opacity:0.50196078;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#fdffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4774"
+         sodipodi:sides="3"
+         sodipodi:cx="33.48243"
+         sodipodi:cy="117.50405"
+         sodipodi:r1="5.2393084"
+         sodipodi:r2="2.6196542"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 38.721738,117.50405 -7.858963,4.53738 0,-9.07475 z"
+         inkscape:transform-center-x="-1.0138696"
+         inkscape:transform-center-y="-8.8425585e-06"
+         transform="matrix(0.8717605,0,0,1.1019586,-18.638855,-49.126588)" />
+      <text
+         id="text4495"
+         y="81.728302"
+         x="27.554632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:2.64583325px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke:none;stroke-width:0.26458332px"
+           y="81.728302"
+           x="27.554632"
+           id="tspan4493"
+           sodipodi:role="line">Foundational</tspan><tspan
+           id="tspan4610"
+           style="stroke:none;stroke-width:0.26458332px"
+           y="84.374138"
+           x="27.554632"
+           sodipodi:role="line">Principles</tspan></text>
+      <text
+         id="text4499"
+         y="77.809494"
+         x="27.471262"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:2.64583325px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke:none;stroke-width:0.26458332px"
+           y="77.809494"
+           x="27.471262"
+           id="tspan4497"
+           sodipodi:role="line">1920s-1940s</tspan></text>
+      <rect
+         style="opacity:0.5;fill:#00afff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5271"
+         width="45.866314"
+         height="16.257242"
+         x="38.792641"
+         y="75.355042" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666679px;line-height:2.11666656px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="39.661457"
+         y="78.466843"
+         id="text5279"><tspan
+           sodipodi:role="line"
+           id="tspan5277"
+           x="39.661457"
+           y="78.466843"
+           style="font-weight:bold;text-align:start;text-anchor:start;stroke-width:0.26458332px">1926</tspan><tspan
+           sodipodi:role="line"
+           x="39.661457"
+           y="80.583511"
+           style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           id="tspan5285">Loewe describes the DEP</tspan></text>
+      <text
+         id="text5360"
+         y="83.758507"
+         x="39.661457"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666679px;line-height:2.11666656px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="83.758507"
+           x="39.661457"
+           id="tspan5350"
+           sodipodi:role="line">1939</tspan><tspan
+           id="tspan5953"
+           style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="85.875175"
+           x="39.661457"
+           sodipodi:role="line">Bliss describes the MSP</tspan></text>
+      <text
+         id="text5388"
+         y="89.050163"
+         x="39.661457"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666679px;line-height:2.11666656px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="89.050163"
+           x="39.661457"
+           id="tspan5376"
+           sodipodi:role="line">1940</tspan><tspan
+           id="tspan5386"
+           style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="91.166832"
+           x="39.661457"
+           sodipodi:role="line">Gaddum introduces Highest Single Agent (HSA)</tspan></text>
+      <rect
+         y="91.612282"
+         x="8.5109501"
+         height="9.9999933"
+         width="30.281691"
+         id="rect4485-2-0"
+         style="opacity:1;fill:#6400ff;fill-opacity:0.50196078;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#fdffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4774-2-4"
+         sodipodi:sides="3"
+         sodipodi:cx="33.48243"
+         sodipodi:cy="117.50405"
+         sodipodi:r1="5.2393084"
+         sodipodi:r2="2.6196542"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 38.721738,117.50405 -7.858963,4.53738 0,-9.07475 z"
+         inkscape:transform-center-x="-1.0138696"
+         inkscape:transform-center-y="-8.8425585e-06"
+         transform="matrix(0.8717605,0,0,1.1019587,-18.394,-32.872332)" />
+      <text
+         id="text4495-0"
+         y="97.982559"
+         x="27.668324"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:2.64583325px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4604"
+           style="stroke-width:0.26458332px"
+           y="97.982559"
+           x="28.059687"
+           sodipodi:role="line">Mass Action </tspan><tspan
+           id="tspan4608"
+           style="stroke-width:0.26458332px"
+           y="100.6284"
+           x="27.668324"
+           sodipodi:role="line"> Interpretation</tspan></text>
+      <text
+         id="text4499-2"
+         y="94.063774"
+         x="27.471264"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:2.64583325px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332px"
+           y="94.063774"
+           x="27.471264"
+           id="tspan4497-9"
+           sodipodi:role="line">1980s</tspan></text>
+      <rect
+         y="91.612297"
+         x="38.850285"
+         height="12.020958"
+         width="45.866314"
+         id="rect5506"
+         style="opacity:0.5;fill:#6400ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#00afff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 38.547785,75.358013 0.244856,16.254269"
+         id="path5273"
+         inkscape:connector-curvature="0" />
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#00afff;stroke-width:0.34674805;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path5275"
+         cx="38.566822"
+         cy="78.03299"
+         rx="0.98084962"
+         ry="0.93011606" />
+      <ellipse
+         ry="0.93011606"
+         rx="0.98084962"
+         cy="83.324654"
+         cx="38.566822"
+         id="ellipse5346"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#00afff;stroke-width:0.34674805;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="0.93011606"
+         rx="0.98084962"
+         cy="88.61631"
+         cx="38.566822"
+         id="ellipse5372"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#00afff;stroke-width:0.34674805;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5524"
+         y="94.721138"
+         x="39.944744"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666679px;line-height:2.11666656px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan5522"
+           style="font-weight:bold;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="94.721138"
+           x="39.944744"
+           sodipodi:role="line">1983,1984</tspan><tspan
+           id="tspan5656"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="96.837807"
+           x="39.944744"
+           sodipodi:role="line">Chou and Talalay rederive both the MSP and </tspan><tspan
+           id="tspan5666"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="98.954468"
+           x="39.944744"
+           sodipodi:role="line">DEP Principles from the law of mass action as </tspan><tspan
+           id="tspan1551"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="101.07114"
+           x="39.944744"
+           sodipodi:role="line">separate equations. Introduce the Sham </tspan><tspan
+           id="tspan1553"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="103.18781"
+           x="39.944744"
+           sodipodi:role="line">Thought Experiment.</tspan><tspan
+           id="tspan5668"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="105.30447"
+           x="39.944744"
+           sodipodi:role="line" /></text>
+      <rect
+         y="103.63324"
+         x="8.491581"
+         height="9.9999924"
+         width="30.281691"
+         id="rect4485-2"
+         style="opacity:1;fill:#ca0078;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#fdffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4774-2"
+         sodipodi:sides="3"
+         sodipodi:cx="33.48243"
+         sodipodi:cy="117.50405"
+         sodipodi:r1="5.2393084"
+         sodipodi:r2="2.6196542"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 38.721738,117.50405 -7.858963,4.53738 0,-9.07475 z"
+         inkscape:transform-center-x="-1.0138696"
+         inkscape:transform-center-y="-8.8425585e-06"
+         transform="matrix(0.8717605,0,0,1.1019586,-18.413367,-20.851362)" />
+      <text
+         id="text4495-3"
+         y="110.26742"
+         x="27.511997"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:2.64583325px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4612"
+           style="stroke-width:0.26458332px"
+           y="110.26742"
+           x="27.90336"
+           sodipodi:role="line">Seeking </tspan><tspan
+           id="tspan4618"
+           style="stroke-width:0.26458332px"
+           y="112.91325"
+           x="27.511997"
+           sodipodi:role="line">Consensus</tspan></text>
+      <text
+         id="text4499-9"
+         y="106.3486"
+         x="27.413467"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:2.64583325px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332px"
+           y="106.3486"
+           x="27.413467"
+           id="tspan4497-7"
+           sodipodi:role="line">1990s</tspan></text>
+      <rect
+         style="opacity:0.5;fill:#ca0078;fill-opacity:1;fill-rule:evenodd;stroke:#ca0078;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5696"
+         width="45.866108"
+         height="21.01687"
+         x="38.850281"
+         y="103.63325" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5508"
+         d="m 38.831069,91.612292 0.01921,12.020958"
+         style="fill:#640000;fill-opacity:0;fill-rule:evenodd;stroke:#6400ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="0.93011606"
+         rx="0.98084962"
+         cy="94.287285"
+         cx="38.850105"
+         id="ellipse5510"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#6400ff;stroke-width:0.34674805;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666679px;line-height:2.11666656px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="39.925411"
+         y="106.74216"
+         id="text5720"><tspan
+           sodipodi:role="line"
+           x="39.925411"
+           y="106.74216"
+           style="font-weight:bold;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           id="tspan5718">1992</tspan><tspan
+           sodipodi:role="line"
+           x="39.925411"
+           y="108.85883"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           id="tspan1739">Unable to reconcile the DEP and MSP, the </tspan><tspan
+           id="tspan5780"
+           sodipodi:role="line"
+           x="39.925411"
+           y="110.97549"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px">Saariselka Agreement stipulates subsequent </tspan><tspan
+           id="tspan5786"
+           sodipodi:role="line"
+           x="39.925411"
+           y="113.09216"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px">synergy studies should specify the method</tspan><tspan
+           id="tspan5788"
+           sodipodi:role="line"
+           x="39.925411"
+           y="115.20882"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px">used to calculate synergy.</tspan></text>
+      <text
+         id="text5814"
+         y="117.85467"
+         x="39.925411"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666679px;line-height:2.11666656px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan5792"
+           style="font-weight:bold;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="117.85467"
+           x="39.925411"
+           sodipodi:role="line">1995</tspan><tspan
+           id="tspan5931"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="119.97134"
+           x="39.925411"
+           sodipodi:role="line">Greco et al., publish an extensive comparison </tspan><tspan
+           id="tspan6144"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="122.088"
+           x="39.925411"
+           sodipodi:role="line">of the various synergy frameworks. Reaffirm the </tspan><tspan
+           id="tspan1561"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="124.20467"
+           x="39.925411"
+           sodipodi:role="line">incongruence between the different methods.</tspan></text>
+      <rect
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4962-6"
+         width="30.281691"
+         height="9.9999952"
+         x="8.5685883"
+         y="124.65012" />
+      <path
+         transform="matrix(0.8717605,0,0,1.1019589,-18.37484,0.16548206)"
+         inkscape:transform-center-y="-8.8425585e-06"
+         inkscape:transform-center-x="-1.0138696"
+         d="m 38.721738,117.50405 -7.858963,4.53738 0,-9.07475 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0"
+         sodipodi:r2="2.6196542"
+         sodipodi:r1="5.2393084"
+         sodipodi:cy="117.50405"
+         sodipodi:cx="33.48243"
+         sodipodi:sides="3"
+         id="path4966-5"
+         style="opacity:1;fill:#fdffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <rect
+         y="124.65012"
+         x="38.850281"
+         height="22.604351"
+         width="45.866138"
+         id="rect5984"
+         style="opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ca0078;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#ca0078;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 38.811809,103.63324 0.03847,21.01689"
+         id="path5698"
+         inkscape:connector-curvature="0" />
+      <ellipse
+         ry="0.93011606"
+         rx="0.98084962"
+         cy="117.42081"
+         cx="38.830776"
+         id="ellipse5790"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ca0078;stroke-width:0.34674805;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ca0078;stroke-width:0.34674805;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse5700"
+         cx="38.8363"
+         cy="106.30831"
+         rx="0.98084962"
+         ry="0.93011606" />
+      <text
+         id="text6010"
+         y="127.75903"
+         x="39.906181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666679px;line-height:2.11666656px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan2794"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="127.75903"
+           x="39.906181"
+           sodipodi:role="line">Expansion of Drug Synergy Methods (Table 1)</tspan><tspan
+           id="tspan2770"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="129.8757"
+           x="39.906181"
+           sodipodi:role="line"> </tspan><tspan
+           id="tspan2774"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="131.99237"
+           x="39.906181"
+           sodipodi:role="line">Proliferation of high-throughput combination </tspan><tspan
+           id="tspan2746"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="134.10904"
+           x="39.906181"
+           sodipodi:role="line">databases (Table XXX)</tspan><tspan
+           id="tspan2748"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="136.22569"
+           x="39.906181"
+           sodipodi:role="line" /><tspan
+           id="tspan2782"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="138.34236"
+           x="39.906181"
+           sodipodi:role="line">Evolution of data sampling techniques for </tspan><tspan
+           id="tspan2784"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="140.45903"
+           x="39.906181"
+           sodipodi:role="line">efficient synergy calculation (Table XXX)</tspan><tspan
+           id="tspan2816"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="142.5757"
+           x="39.906181"
+           sodipodi:role="line" /><tspan
+           id="tspan2786"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="144.69237"
+           x="39.906181"
+           sodipodi:role="line">Development of Machine Learning approaches </tspan><tspan
+           id="tspan6093"
+           style="font-weight:normal;text-align:start;text-anchor:start;stroke-width:0.26458332px"
+           y="146.80904"
+           x="39.906181"
+           sodipodi:role="line">to predict synergy (Table XXX)</tspan></text>
+      <text
+         id="text4495-8-8"
+         y="131.02042"
+         x="27.519768"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:2.64583325px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan2764"
+           style="stroke-width:0.26458332px"
+           y="131.02042"
+           x="27.519768"
+           sodipodi:role="line">The Modern</tspan><tspan
+           id="tspan2768"
+           style="stroke-width:0.26458332px"
+           y="133.66624"
+           x="27.519768"
+           sodipodi:role="line">Expansion</tspan></text>
+      <text
+         id="text4499-3-8"
+         y="127.10162"
+         x="27.422037"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:2.64583325px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332px"
+           y="127.10162"
+           x="27.422037"
+           id="tspan4497-94-4"
+           sodipodi:role="line">2000s-Present</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5986"
+         d="m 38.850279,124.65012 10e-7,22.60436"
+         style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="0.93011606"
+         rx="0.98084962"
+         cy="144.25867"
+         cx="38.811531"
+         id="ellipse2792"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.34674805;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.34674805;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse6012"
+         cx="38.811531"
+         cy="137.9086"
+         rx="0.98084962"
+         ry="0.93011606" />
+      <ellipse
+         ry="0.93011606"
+         rx="0.98084962"
+         cy="131.55861"
+         cx="38.811531"
+         id="ellipse6140"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.34674805;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="0.93011606"
+         rx="0.98084962"
+         cy="127.32517"
+         cx="38.811531"
+         id="ellipse5988"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.34674805;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

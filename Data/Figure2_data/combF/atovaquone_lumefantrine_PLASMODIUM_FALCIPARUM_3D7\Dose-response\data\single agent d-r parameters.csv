@@ -1,0 +1,6 @@
+Parameters,atovaquone,lumefantrine
+EC50,1,0.00359806787863078
+H,0,1.22341221593884
+Ucinf,100,0
+chi2,50166.2401191998,8402.7939470869
+good_of_fit,0,0
